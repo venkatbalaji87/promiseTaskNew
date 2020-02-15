@@ -1,2 +1,0 @@
-# promiseTaskNew
-Created with CodeSandbox
